@@ -4,4 +4,4 @@
 
 A UNIQUE PRIVATE KEY FOR ALL YOUR ADDRESS...
 
-www.coinsolidation.org By www.openqbit.com
+www.coinsolidation.org 
